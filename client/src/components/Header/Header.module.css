@@ -1,0 +1,25 @@
+.navContainer {
+  background-color: #2e30c9;
+	padding: 10px;
+}
+
+.navLink {
+  color: teal;
+  font-size: 16px;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	margin-right: 10px;
+}
+
+/* @media (max-width: 768px) {
+	.navContainer {
+		padding: 5px;
+		text-align: center;
+	}
+
+	.navLink {
+		display: block;
+		margin: 5px 0;
+	}
+} */
